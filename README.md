@@ -1,5 +1,5 @@
 # README
-<h1 align="center">Hi there, I'm Dul Devith 👋</h1>
+<h1 align="center">Hi there, I'm Nu Nechan 👋</h1>
 
 <p align="center">
   <a href="#">🌐 Portfolio</a> |
